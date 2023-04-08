@@ -74,7 +74,7 @@ function paper(){
 
 
 function resetBtn(){
-  title.innerText = "시작"
+  title.innerText = "나 : 컴퓨터"
   computerChoice.innerText = "Ready"
   me.innerText = "0"
   computer.innerText = "0"
